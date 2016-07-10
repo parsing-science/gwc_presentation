@@ -1,4 +1,8 @@
-# UIC Girls Who Code presentation 7/21/16
+# UIC Girls Who Code presentation 7/21/16 
+
+This repo contains a jupyter notebook with a linear regression example.
+
+Follow the steps below to get set up.
 
 Step 1: Clone this repo or download the zip file using the buttons above
 
