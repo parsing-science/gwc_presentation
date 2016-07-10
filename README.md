@@ -4,22 +4,22 @@ Step 1: Clone this repo or download the zip file using the buttons above
 
 Step 2: Go into the directory of this repo
 
-``` cd gwc_presentation```
+``` $ cd gwc_presentation```
 
 Step 3: Create a virtual environment
 
-``` virtualenv venv```
+``` $ virtualenv venv```
 
 Step 4: Activate your virtual environment
 
-``` source venv/bin/activate```
+``` $ source venv/bin/activate```
 
 (To deactivate, type `deactivate`)
 
 Step 5: Install requirements
 
-``` pip install -r requirements.txt```
+``` $ pip install -r requirements.txt```
 
 Step 6: Start your local Jupyter server
 
-```jupyter notebook```
+``` $ jupyter notebook```
