@@ -2,7 +2,7 @@
 
 Step 1: Clone this repo or download the zip file using the buttons above
 
-Step 2: Go into the directory of this repo
+Step 2: Go into the directory of this repo in your terminal
 
 ``` $ cd gwc_presentation```
 
