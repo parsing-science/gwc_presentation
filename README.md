@@ -1,6 +1,6 @@
 # UIC Girls Who Code presentation 7/21/16 
 
-This repo contains a jupyter notebook with a linear regression example.
+This repo contains jupyter notebooks with a linear regression example and a random forest example..
 
 Follow the steps below to get set up.
 
